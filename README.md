@@ -46,6 +46,6 @@
 
   Please contact me with any questions using either of the avenues below.
 
-  Github URL:
+  Github URL: https://github.com/metayerkinson/PWA-text-editor
 
-  Email:
+  Email: metayerkinson@gmail.com
